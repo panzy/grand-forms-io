@@ -10,7 +10,9 @@
     "cookie-parser": "~1.4.3",
     "debug": "~2.6.3",
     "express": "~4.15.2",
+    "logger": "git+https://github.com/panzy/node-logger.git",
     "morgan": "~1.8.1",
+    "nodejdbc": "https://github.com/panzy/nodejdbc/tarball/ac043f42011bb9044fea84aae086d773dc4f02ee",
     "pug": "~2.0.0-beta11",
     "serve-favicon": "~2.4.2"
   }
